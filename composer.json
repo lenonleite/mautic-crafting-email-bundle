@@ -1,0 +1,24 @@
+{
+  "name": "lenonleite/mautic-crafting-email-bundle",
+  "description": "This is a plugin to list new emails.",
+  "type": "mautic-plugin",
+  "license": "GPL-3.0",
+  "authors": [
+      {
+          "name": "Lenon Leite",
+          "email": "lenonleite@gmail.com"
+      }
+  ],
+  "keywords": [
+    "mautic",
+    "plugin",
+    "integration"
+  ],
+  "extra": {
+      "install-directory-name": "LenonLeiteCraftingEmailBundle"
+  },
+  "minimum-stability": "dev",
+  "require": {
+      "mautic/core-lib": "^5.0"
+  }
+}
